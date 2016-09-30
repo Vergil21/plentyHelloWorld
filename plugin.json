@@ -2,7 +2,7 @@
     "name":"plentyHelloWorld",
     "description":"My first plugin",
     "namespace":"plentyHelloWorld",
-    "author":"Your name",
+    "author":"Estarossa",
     "type":"template",
     "serviceProvider":"plentyHelloWorld\\Providers\\plentyHelloWorldServiceProvider"
 }
